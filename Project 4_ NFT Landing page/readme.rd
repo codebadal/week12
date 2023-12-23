@@ -1,0 +1,1 @@
+from-blue-600 to-[#D464FB]
